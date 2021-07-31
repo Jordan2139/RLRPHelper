@@ -1,0 +1,52 @@
+{
+	"ownerid": "353020749126041602",
+	"modrolename": "TJH | Support Team",
+	"adminrolename": "TJH | Administrator",
+	"managerrolename": "TJH | Manager",
+	"overlordrolename": "TJH | Developer",
+	"prefix": "?",
+	
+	"module_toggles": {
+        "welcome_leave_channel": true,
+        "join_role": true,
+        "logs": true,
+        "moderation_commands": true,
+        "mod_logs": true,
+        "fun_commands": true,
+        "utility_commands": true,
+        "ticket_system": true,
+        "filter_lang_links": true,
+        "member_count_channel": true
+	},
+	"ticket_system": {
+        "support_role": "705633978169950219",
+        "auto_reply": true,
+        "auto_reply_message": "Hey, \nThanks for making a ticket! We will be sure to reply to you as soon as a member of support is available."
+    }, 
+	"channel_setup": {
+		"welcome_channel": "788294907977793588",
+		"general_logs_channel": "788313252572037140",
+		"kick_logs_channel": "788313252572037140",
+		"ban_logs_channel": "788313252572037140",
+		"warning_logs_channel": "788313252572037140",
+		"mute_logs_channel": "788313252572037140",
+		"command_logs_channel": "788313252572037140",
+		"ticket_category": "705646716019408907",
+		"level_channel": "788303314579488768",
+		"commend_channel": "746181682880708669",
+		"rp_accounce_channel": "705638828219695148"
+	}, 
+	"member_count_module": {
+        "member_count_channel": "746163935148900394"
+	},  
+	"filter_module": {
+        "language_bypass_role": "Owner",
+        "link_bypass_role": "",
+        "filter_links": ["bing.com", "example.com", "discord.gg"],
+		"filter_words": ["nigger", "gay", "fag", "faggot", "nigga", "nigg3r", "nigg4", "nazi", "cunt", "libtard", "trump", "biden", "hilary", "liberal", "republican", "blm", "trump2020", "biden2020", "KKK", "epstien", "mothercunt", "boarder", "acab", "penis", "dick", "pussy"]
+    },
+	"bot_setup": {
+        "main_embed_color": "#E67E22"
+    },
+	"token": "NzExMzk0NzgyMTE0NjExMjQy.XsCYBQ.Zqp-91Ic513DCy64YTZuehp6F-I"
+}
